@@ -1,0 +1,9 @@
+https://learn.microsoft.com/en-us/dotnet/framework/interop/marshalling-data-with-platform-invoke
+https://learn.microsoft.com/en-us/dotnet/api/system.intptr?view=netframework-4.8.1
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-wndclassa
+https://github.com/microsoft/Windows-classic-samples/blob/main/Samples/Win7Samples/begin/LearnWin32/HelloWorld/cpp/main.cpp
+https://learn.microsoft.com/en-us/windows/win32/winprog/windows-data-types
+https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.layoutkind?view=netframework-4.8.1#system-runtime-interopservices-layoutkind-explicit
+https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/2.2.hello_triangle_indexed/hello_triangle_indexed.cpp
+https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/interop/how-to-use-platform-invoke-to-play-a-wave-file
+https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-wglcreatecontext
